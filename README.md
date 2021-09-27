@@ -1,6 +1,6 @@
-# <center>Hi, I'm Denys</center>
+# <p align="center">Hi, I'm Denys</p>
 
-### <center>Front End Engineer</center>
+### <p align="center">Front End Engineer</p>
 
 <p align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" alt="javascript" width="60" height="60" />
